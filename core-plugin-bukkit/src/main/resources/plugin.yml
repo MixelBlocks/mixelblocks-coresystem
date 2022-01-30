@@ -1,0 +1,12 @@
+name: MixelBlocksCoreSystem
+version: ${project.parent.version}
+main: de.mixelblocks.coresystem.CoreSystemBukkitPlugin
+description: Dieses Plugin added dem MixelBlocks UnterServer generelle Funktionen sowie Commands
+authors:
+  - LuciferMorningstarDev
+website: https://dash.mixelblocks.de/
+depend:
+  - LuckPerms
+  - PlaceholderAPI
+  - ProtocolLib
+load: STARTUP

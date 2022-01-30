@@ -1,0 +1,10 @@
+{
+  "id": "coresystem",
+  "name": "MixelBlocksCoreSystem",
+  "main":"de.mixelblocks.coresystem.CoreSystemVelocityPlugin",
+  "version": "${project.parent.version}",
+  "description": "Dieses Plugin added dem MixelBlocks ProxyServer generelle Funktionen sowie Commands",
+  "authors": ["LuciferMorningstarDev"],
+  "website": "https://dash.mixelblocks.de/",
+  "dependencies":["luckperms"]
+}
